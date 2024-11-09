@@ -73,7 +73,7 @@ public class Main {
         System.out.println();
 
         //Печать данных сотрудников отдела
-        skyPro.PrintDataDepartmentEmployees(3);
+        skyPro.printDataDepartmentEmployees(3);
         System.out.println();
 
         //Печать данных сотрудников с ЗП меньше

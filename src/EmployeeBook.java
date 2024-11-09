@@ -167,7 +167,7 @@ class EmployeeBook {
     }
 
     //Печать данных сотрудников отдела
-    public void PrintDataDepartmentEmployees(int departmentNumber) {
+    public void printDataDepartmentEmployees(int departmentNumber) {
         for (Employee employee : employees) {
             if (employee == null) {
                 continue;
